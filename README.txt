@@ -1,0 +1,1 @@
+See: http://www.kasperkamperman.com/blog/arduino-moodlight-library/
